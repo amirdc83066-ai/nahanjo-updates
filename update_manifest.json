@@ -1,0 +1,12 @@
+{
+  "latest_version": "2.0.1",
+  "mandatory": false,
+  "notes": "به‌روزرسانی ناهنجو: اتصال امن هوش مصنوعی، همگام‌سازی بخش AI و بهبودهای پایداری.",
+  "packages": {
+    "windows": {
+      "download_url": "",
+      "sha256": "",
+      "size": 0
+    }
+  }
+}
