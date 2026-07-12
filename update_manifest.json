@@ -5,8 +5,8 @@
   "packages": {
     "windows": {
       "download_url": "https://github.com/amirdc83066-ai/nahanjo-updates/releases/download/v2.0.1/Nahanjo.zip",
-      "sha256": "8ab8d1348d7f6023ecfe1fa7561db14074285539232e7c21ffb4f93cf892e7ef",
-      "size": 318536969
+      "sha256": "c8eb82beeb04f1c718b5cdefa97e4c078f5a93ee7a69e4165905cbed26c4b4f3",
+      "size": 324368114
     }
   }
 }
