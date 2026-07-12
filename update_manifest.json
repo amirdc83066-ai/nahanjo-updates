@@ -4,9 +4,9 @@
   "notes": "به‌روزرسانی ناهنجو: اتصال امن هوش مصنوعی، همگام‌سازی بخش AI و بهبودهای پایداری.",
   "packages": {
     "windows": {
-      "download_url": "",
-      "sha256": "",
-      "size": 0
+      "download_url": "https://github.com/amirdc83066-ai/nahanjo-updates/releases/download/v2.0.1/Nahanjo.zip",
+      "sha256": "8ab8d1348d7f6023ecfe1fa7561db14074285539232e7c21ffb4f93cf892e7ef",
+      "size": 318536969
     }
   }
 }
