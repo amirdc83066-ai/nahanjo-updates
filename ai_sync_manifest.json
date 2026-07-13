@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": "ai-1.0.0",
-  "package_url": "",
-  "sha256": ""
+  "version": "ai-1.0.1",
+  "package_url": "https://github.com/amirdc83066-ai/nahanjo-updates/releases/download/ai-1.0.1/ai.zip",
+  "sha256": "5334da19df0161ce3a405ea31a9b4199cd2801c0040e8f4bf2a8879725f96add"
 }
