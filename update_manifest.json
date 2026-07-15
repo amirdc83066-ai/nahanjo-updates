@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.0.1",
+  "latest_version": "2.0.2",
   "mandatory": false,
-  "notes": "به‌روزرسانی ناهنجو: اتصال امن هوش مصنوعی، همگام‌سازی بخش AI و بهبودهای پایداری.",
+  "notes": "افزایش سرعت اجرای برنامه، اصلاح باگ‌های هوش مصنوعی و رفع چند ایراد جزئی.",
   "packages": {
     "windows": {
-      "download_url": "https://github.com/amirdc83066-ai/nahanjo-updates/releases/download/v2.0.1/Nahanjo.zip",
-      "sha256": "c8eb82beeb04f1c718b5cdefa97e4c078f5a93ee7a69e4165905cbed26c4b4f3",
-      "size": 324368114
+      "download_url": "https://github.com/amirdc83066-ai/nahanjo-updates/releases/download/v2.0.2/Nahanjo-2.0.2-win.zip",
+      "sha256": "e87ce9849bfa1a6a7836ed53d1c0f28685088c37206cbdb51477efa225542bf0",
+      "size": 163264726
     }
   }
 }
